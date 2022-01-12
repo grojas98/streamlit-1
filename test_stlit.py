@@ -14,7 +14,6 @@ import pandas as pd
 from itertools import count
 import seaborn as sns
 import time
-import psycopg2 as pg
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title('Mapa de calor Sabanilla')
